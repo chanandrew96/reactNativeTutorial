@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "expo": "~42.0.1",
+    "expo-cli": "^4.9.1",
     "expo-status-bar": "~1.0.4",
     "native-base": "^3.0.7",
     "react": "16.13.1",
